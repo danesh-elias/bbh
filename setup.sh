@@ -15,6 +15,6 @@ go install -v github.com/projectdiscovery/uncover/cmd/uncover@latest;
 go install github.com/OJ/gobuster/v3@latest;
 go install github.com/ffuf/ffuf@latest
 git clone https://github.com/danielmiessler/SecLists.git;
-wget https://raw.githubusercontent.com/danesh-elias/files/main/dan-omz.zsh-theme -O ~/.oh-my-zsh/themes/dan-omz.zsh-theme
+cp dan-omz.zsh-theme ~/.oh-my-zsh/themes/dan-omz.zsh-theme
 
 
