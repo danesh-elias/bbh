@@ -13,8 +13,10 @@ go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest;
 go install github.com/tomnomnom/meg@latest; 
 go install -v github.com/projectdiscovery/uncover/cmd/uncover@latest;
 go install github.com/OJ/gobuster/v3@latest;
-go install github.com/ffuf/ffuf@latest
+go install github.com/ffuf/ffuf@latest;
 git clone https://github.com/danielmiessler/SecLists.git;
-cp dan-omz.zsh-theme ~/.oh-my-zsh/themes/dan-omz.zsh-theme
+cp dan-omz.zsh-theme ~/.oh-my-zsh/themes/dan-omz.zsh-theme;
+exit
+
 
 
